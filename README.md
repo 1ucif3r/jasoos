@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/1ucif3r/jasoos/blob/main/j.png" alt="jasoos Logo" width=200 height=200/>
+  <img src="https://github.com/1ucif3r/jasoos/blob/main/j.png" alt="jasoos Logo" />
 </p>
 
 <h1 align="center">JASOOS</h1>
@@ -88,7 +88,7 @@ Note: You can also use our custom icons from the icon folder, just use them like
 ### ScreenShot
 
 <p align="center">
-  <img src="https://github.com/1ucif3r/jasoos/blob/main/jasoos.png" alt="jasoos Logo" width=200 height=200/>
+  <img src="https://github.com/1ucif3r/jasoos/blob/main/jasoos.png" alt="jasoos Logo"/>
 </p>
 
 
