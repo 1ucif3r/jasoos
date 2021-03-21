@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Python-3.9-green.svg">
   </a>
   <a href="https://github.com/1ucif3r/jasoos/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-GNU%203.0-lightgrey.svg">
+    <img src="https://img.shields.io/badge/License-MIT%203.0-lightgrey.svg">
   </a>
   <a href="https://github.com/1ucif3r/jasoos/releases">
     <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
