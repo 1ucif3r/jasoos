@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/F-Society-Official/FS-Logger/blob/main/j.png" alt="fs-Logger Logo" width=200 height=200/>
+  <img src="https://github.com/1ucif3r/jasoos/blob/main/j.png" alt="fs-Logger Logo" width=200 height=200/>
 </p>
 
 <h1 align="center">JASOOS</h1>
